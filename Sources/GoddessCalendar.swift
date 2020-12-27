@@ -245,7 +245,7 @@ extension GoddessCalendar {
       self.length = length
     }
     
-    static let fullNames = ["Athena", "Brigid", "Cerridwen", "Miranda", "Kathia", "Freya", "Gaea", "Hathor", "Inanna", "Juno", "Kore", "Lilith", "Maria"]
+    static let fullNames = ["Athena", "Brigid", "Cerridwen", "Diana", "Epona", "Freya", "Gaea", "Hathor", "Inanna", "Juno", "Kore", "Lilith", "Maria"]
     
     static func days(for length: Year.Length) -> [Int] {
       
