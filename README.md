@@ -7,7 +7,7 @@ For more information, see [www.fractal-timewave.com](http://www.fractal-timewave
 ## Usage
 Import `GoddessCalendar.framework` into your project.
 
-User the `GoddessDate` struct to convert to and from a `Date` object.
+Use the `GoddessDate` struct to convert to and from a `Date` object.
 ```swift
 import Foundation
 import GoddessCalendar
